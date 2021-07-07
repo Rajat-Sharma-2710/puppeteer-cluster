@@ -44,7 +44,6 @@ const DEFAULT_OPTIONS: ClusterOptions = {
         // headless: false, // just for testing...
     },
     perBrowserOptions: undefined,
-    monitor: false,
     timeout: 30 * 1000,
     retryLimit: 0,
     retryDelay: 0,
